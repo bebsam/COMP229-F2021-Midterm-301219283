@@ -45,17 +45,17 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/bebsam/COMP229-F2021-Midterm-301219283.git"
   },
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "bebin",
   "license": "ISC",
   "bugs": {
     "url": ""
   },
-  "homepage": ""
+  "homepage": "https://comp229-f2021midterm-301219283.herokuapp.com/"
 }
