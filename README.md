@@ -1,5 +1,7 @@
-# COMP229-F2019-MidTerm Test
+# COMP229-F2021-MidTerm Test
 
-## Welcome to the MidTerm Project - the Favourite Book List App
+#This is my midterm project in COMP229. 
+#A book list app with mongo DB support
 
 please use **`npm install`** to install project dependencies
+
